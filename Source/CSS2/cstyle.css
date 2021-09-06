@@ -1,6 +1,6 @@
 .flex-container {
     display: flex;
-    justify-content: center; /* justifying to center */
+    justify-content: center; 
 }
 .flex-item {
     margin: 5px;
